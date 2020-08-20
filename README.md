@@ -12,7 +12,9 @@ I undertook this project to learn the basics of Unity and explore the beauty beh
 
 # Instalation
 
-# -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+# -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+First: install unity
 
 Navigate to: Boids-Flocking-Algorithm > Boids > Assets > Scenes
 
