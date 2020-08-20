@@ -16,7 +16,9 @@ I undertook this project to learn the basics of Unity and explore the beauty beh
 
 First: install unity
 
-Navigate to: Boids-Flocking-Algorithm > Boids > Assets > Scenes
+Download and unzip this repository.
+
+Within that folder navigate to: Boids-Flocking-Algorithm > Boids > Assets > Scenes
 
 Open Boids.unity
 
